@@ -1,0 +1,5 @@
+git branch <alt>
+git merge <alt>
+git commit -m "Commit message"
+git push origin <alt>
+git pull origin <alt>
